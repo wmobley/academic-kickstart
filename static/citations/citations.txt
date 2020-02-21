@@ -1,7 +1,3 @@
-@article{blessingflood,
-  title={A Flood Risk Assessment of the San Jacinto River Waste Pit Superfund Site},
-  author={BLESSING, RUSSELL and ATOBA, KAYODE and MOBLEY, WILL and WILSON, MORGAN}
-}
 
 @misc{van2017flood,
   title={Flood Risk Reduction System Optimization Application to the Galveston Bay Area},
